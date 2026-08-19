@@ -1,4 +1,5 @@
 # dotenvdoctor
+![CI](https://github.com/realMNohgee/dotenvdoctor/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Validate `.env` files against a schema. Catch missing variables, type mismatches, insecure defaults, and duplicate keys.
 
